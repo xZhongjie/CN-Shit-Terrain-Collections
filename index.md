@@ -4,14 +4,15 @@
 
 2020年5月是地形圈的寒武纪，出于各种原因，国内地形圈加速发展，出现了属于地形圈的寒武纪生命大爆发。如今已过去了两年，这段时间里，涌现出了一些及其优秀的、或是极具创意的地形。如今地形圈再次陷入发展滞缓的处境，因此有必要整理上一时期优秀的地形成果，激励众多地形师继续创作。
 
-<font face="-apple-system, BlinkMacSystemFont,Segoe UI, Roboto, Helvetica, Arial, sans-serif"><table cellspacing="0" class="t_table" style="width:85%"><tr style="background-color:#00B0D5"><td><br />
-<span style="float:left;margin-right:5px">&nbsp; &nbsp;&nbsp;&nbsp;</span><font size="6">如果您继续阅读本文，请务必阅读以下声明。</font></a></strong></font>
-</td></tr><tr style="background-color:#E9E9E9"><td><font style="font-size:16px"><br />
-&nbsp; &nbsp; 1.“粪”是地形师们对于自己作品的戏称，这里的”粪“实际上是指优质地形。<br />
-&nbsp; &nbsp; 2.本文引用的地形的发布协议请自行查看各自贴子，本文的地形评论的全部权利属于中介和对应评论的地形作者。<br />
-&nbsp; &nbsp; 3.本文仅收录现在公开或曾经公开过的已经制作成Minecraft存档的地形，对于仅有WM工程的地形不予收录。<br />
-&nbsp; &nbsp; 4.收录标准具有较强主观性，仅供参考。收录地形不分先后顺序。<br />
-<strong>&nbsp; &nbsp; </td></table><br />
+**如果您继续阅读本文，请务必阅读以下声明。**
+
+1.“粪”是地形师们对于自己作品的戏称，这里的”粪“实际上是指优质地形。
+
+2.本文引用的地形的发布协议请自行查看各自贴子，本文的地形评论的全部权利属于中介和对应评论的地形作者。
+
+3.本文仅收录现在公开或曾经公开过的已经制作成Minecraft存档的地形，对于仅有WM工程的地形不予收录。
+
+4.收录标准具有较强主观性，仅供参考。收录地形不分先后顺序。
 
 ## Sørvágsvatn 塞夫瓦茨瓦滕 by 芊芊
 
