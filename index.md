@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# 《粪》——2020-2022大粪地形集锦
 
-You can use the [editor on GitHub](https://github.com/xZhongjie/CN-Shit-Terrain-Collections/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 序言
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2020年5月是地形圈的寒武纪，出于各种原因，国内地形圈加速发展，出现了属于地形圈的寒武纪生命大爆发。如今已过去了两年，这段时间里，涌现出了一些及其优秀的、或是极具创意的地形。如今地形圈再次陷入发展滞缓的处境，因此有必要整理上一时期优秀的地形成果，激励众多地形师继续创作。
 
-### Markdown
+| 如果您继续阅读本文，请务必阅读以下声明。                     |
+| ------------------------------------------------------------ |
+| 1.“粪”是地形师们对于自己作品的戏称，这里的”粪“实际上是指优质地形。 |
+| 2.本文引用的地形的发布协议请自行查看各自贴子，本文的地形评论的全部权利属于中介和对应评论的地形作者。 |
+| 3.本文仅收录现在公开或曾经公开过的已经制作成Minecraft存档的地形，对于仅有WM工程的地形不予收录。 |
+| 4.收录标准具有较强主观性，仅供参考。收录地形不分先后顺序。   |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Sørvágsvatn 塞夫瓦茨瓦滕 by 芊芊
 
-```markdown
-Syntax highlighted code block
+原贴地址：https://www.mcbbs.net/thread-1061493-1-1.html
 
-# Header 1
-## Header 2
-### Header 3
+ WM30x时代最为惊人的地形，工程量庞大到难以想象，以难以计数的节点数量创造出独特的地形纹理，通过大量遮罩实现了惊艳的上色，搭配以彩色花朵的巧妙应用，最终呈现给我们了一个震撼的综合地形，是自2020年5月，后地形圈时代的第一个佳作，标志着一场波澜壮阔的地形革命的应运而生。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xZhongjie/CN-Shit-Terrain-Collections/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](http://thingy.top/view.php/a1fd80051d3d328d65d91b1ee2c6d571.jpg)
