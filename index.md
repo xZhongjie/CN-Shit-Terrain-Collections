@@ -66,11 +66,11 @@ SDC地形创作公开赛第二届冠军。以海洋为主题，首次在综合�
 
 ![](http://thingy.top/view.php/1b589151d8c956604408e797e471d013.jpg)
 
-## 大粪雪山 by 诺诚143
+## 大粪雪山 by 诺诚143&Nord
 
 原贴地址：https://twitter.com/Nuocheng143/status/1441768545075953676?t=HeoZzSZwOIpQAqtDev58sQ&s=19
 
-积玉堆琼，山巅横卧。十分阳刚的雪山设计，山体陡峭至极，以至于雪难以附着于其上，但仍有少量的雪留在了山脊上，二气交感，化生万物，万物生生而变化无穷。![](http://thingy.top/view.php/e5f2b990feb002e8cb3cc51bd7549605.png)
+积玉堆琼，山巅横卧。十分阳刚的雪山设计，山体陡峭至极，以至于雪难以附着于其上，但仍有少量的雪留于山脊，二气交感，化生万物，万物生生而变化无穷。![](http://thingy.top/view.php/e5f2b990feb002e8cb3cc51bd7549605.png)
 
 ## 蓁洲 by 中介
 
